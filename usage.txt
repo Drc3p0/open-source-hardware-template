@@ -1,0 +1,6 @@
+Usage
+===========
+
+Put inside this file all details needed for utilizing your project. For example:
+
+> Connect to the power source and watch the LED blink!

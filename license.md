@@ -30,7 +30,3 @@ Hardware-Specific Licenses: [TAPR OHL](https://tapr.org/the-tapr-open-hardware-l
 Hardware-Specific License: [Solderpad Hardware License](http://solderpad.org/licenses/)
 
 It is good practice to include a copy of the license in the version control repository, and a statement in every file or at least the README specifying the author(s) and year(s) of non-trivial modifications, and the license.
-
- other elements of your project.
-
-Pick a license

@@ -1,7 +1,11 @@
 Open Hardware Project Template
 =======================================================
 
-This repository serves as a base template to facilitate the documentation of Open Hardware projects.
+This repository serves as a base template to help you create great documentation of your Open Hardware projects.  It contains examples of all of the recommended files and filestructure that is commonly shared in great open hardware projects. 
+You can create a template of this repo and fill it out.  
+Here are a few examples of great documentation.
+[Pixie Chroma open source documentation](https://github.com/connornishijima/Pixie_Chroma)
+[Slime VR how-to documentation](https://docs.slimevr.dev/)
 
 The proposed structure of folders within this template is based on the 'Best Practices for Open-Source Hardware' document published by the Open Source Hardware Association.
 http://www.oshwa.org/sharing-best-practices/

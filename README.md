@@ -1,9 +1,10 @@
 Open Hardware Project Template
 =======================================================
 
-This repository serves as a base template to help you create great documentation of your Open Hardware projects.  It contains examples of all of the recommended files and filestructure that is commonly shared in great open source hardware projects. 
+This repository serves as a base template to help you create great documentation of your Open Hardware projects, so that other humans can test and iterate your project.  It contains examples of all of the recommended files and filestructure that is commonly shared in great open source hardware projects. Sharing all of these resources is optional, so please fill out everything you can, and delete the files you aren't using. 
 You can create a template of this repo and fill it out, so that you can create easy-to-read open source content for your project.  
 Here are a few examples of great documentation.  
+
 - [Pixie Chroma open source documentation](https://github.com/connornishijima/Pixie_Chroma)  
 - [Slime VR how-to documentation](https://docs.slimevr.dev/)  
 - [MNT Reform open source documentation](https://source.mnt.re/reform/reform)  
@@ -12,7 +13,7 @@ Here are a few examples of great documentation.
 The proposed structure of folders within this template is based on the 'Best Practices for Open-Source Hardware' document published by the Open Source Hardware Association.
 http://www.oshwa.org/sharing-best-practices/
 
-You are free to modify this document as it best suits your needs, by overwriting the text on each paragraph and adding any information or extra files that you consider useful.
+You are free to modify this document as it best suits your needs, by overwriting the text on each paragraph and adding/deleting any information or extra files that you consider useful.
 
 You can start by deleting this section, including this line of text.
 
